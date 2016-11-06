@@ -1,0 +1,10 @@
+com\example\models\Queue.class
+com\example\SpringJmsApplication.class
+com\example\MessageQueueReceiver.class
+com\example\MessagingConfiguration.class
+com\example\AppController.class
+com\example\models\Topic.class
+com\example\DBConfig.class
+com\example\models\User.class
+com\example\models\UserDao.class
+com\example\models\QueueDao.class
